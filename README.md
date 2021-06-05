@@ -11,6 +11,6 @@ I use a generalized Makefile and g++ to compile and run the code.
 ```
 $ git clone https://github.com/l4dbill8745/doublePendulum.git
 $ cd doublePendulum
-$ make
+$ make clean
 $ make run
 ```
